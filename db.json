@@ -1,5 +1,5 @@
 {
-  "results": [
+  "pokemons": [
     {
       "id": 1,
       "name": "bulbasaur",
@@ -412,7 +412,7 @@
     },
     {
       "id": 83,
-      "name": "farfetch'd",
+      "name": "farfetchd",
       "url": "https://pokeapi.co/api/v2/pokemon/83/"
     },
     {
@@ -607,7 +607,7 @@
     },
     {
       "id": 122,
-      "name": "mr. mime",
+      "name": "mr-mime",
       "url": "https://pokeapi.co/api/v2/pokemon/122/"
     },
     {
