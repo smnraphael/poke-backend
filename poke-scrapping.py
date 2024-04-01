@@ -28,11 +28,11 @@ def get_pokemon_info(limit=386):
 
 def get_generation(pokemon_id):
     if 1 <= pokemon_id <= 151:
-        return "gen 1"
+        return "i"
     elif 152 <= pokemon_id <= 251:
-        return "gen 2"
+        return "ii"
     elif 252 <= pokemon_id <= 386:
-        return "gen 3"
+        return "iii"
     else:
         return "Unknown"
 
