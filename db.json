@@ -10,7 +10,8 @@
                 "poison"
             ],
             "height": 7,
-            "weight": 69
+            "weight": 69,
+            "color": "green"
         },
         {
             "id": 2,
@@ -22,7 +23,8 @@
                 "poison"
             ],
             "height": 10,
-            "weight": 130
+            "weight": 130,
+            "color": "green"
         },
         {
             "id": 3,
@@ -34,7 +36,8 @@
                 "poison"
             ],
             "height": 20,
-            "weight": 1000
+            "weight": 1000,
+            "color": "green"
         },
         {
             "id": 4,
@@ -45,7 +48,8 @@
                 "fire"
             ],
             "height": 6,
-            "weight": 85
+            "weight": 85,
+            "color": "red"
         },
         {
             "id": 5,
@@ -56,7 +60,8 @@
                 "fire"
             ],
             "height": 11,
-            "weight": 190
+            "weight": 190,
+            "color": "red"
         },
         {
             "id": 6,
@@ -68,7 +73,8 @@
                 "flying"
             ],
             "height": 17,
-            "weight": 905
+            "weight": 905,
+            "color": "red"
         },
         {
             "id": 7,
@@ -79,7 +85,8 @@
                 "water"
             ],
             "height": 5,
-            "weight": 90
+            "weight": 90,
+            "color": "blue"
         },
         {
             "id": 8,
@@ -90,7 +97,8 @@
                 "water"
             ],
             "height": 10,
-            "weight": 225
+            "weight": 225,
+            "color": "blue"
         },
         {
             "id": 9,
@@ -101,7 +109,8 @@
                 "water"
             ],
             "height": 16,
-            "weight": 855
+            "weight": 855,
+            "color": "blue"
         },
         {
             "id": 10,
@@ -112,7 +121,8 @@
                 "bug"
             ],
             "height": 3,
-            "weight": 29
+            "weight": 29,
+            "color": "green"
         },
         {
             "id": 11,
@@ -123,7 +133,8 @@
                 "bug"
             ],
             "height": 7,
-            "weight": 99
+            "weight": 99,
+            "color": "green"
         },
         {
             "id": 12,
@@ -135,7 +146,8 @@
                 "flying"
             ],
             "height": 11,
-            "weight": 320
+            "weight": 320,
+            "color": "white"
         },
         {
             "id": 13,
@@ -147,7 +159,8 @@
                 "poison"
             ],
             "height": 3,
-            "weight": 32
+            "weight": 32,
+            "color": "brown"
         },
         {
             "id": 14,
@@ -159,7 +172,8 @@
                 "poison"
             ],
             "height": 6,
-            "weight": 100
+            "weight": 100,
+            "color": "yellow"
         },
         {
             "id": 15,
@@ -171,7 +185,8 @@
                 "poison"
             ],
             "height": 10,
-            "weight": 295
+            "weight": 295,
+            "color": "yellow"
         },
         {
             "id": 16,
@@ -183,7 +198,8 @@
                 "flying"
             ],
             "height": 3,
-            "weight": 18
+            "weight": 18,
+            "color": "brown"
         },
         {
             "id": 17,
@@ -195,7 +211,8 @@
                 "flying"
             ],
             "height": 11,
-            "weight": 300
+            "weight": 300,
+            "color": "brown"
         },
         {
             "id": 18,
@@ -207,7 +224,8 @@
                 "flying"
             ],
             "height": 15,
-            "weight": 395
+            "weight": 395,
+            "color": "brown"
         },
         {
             "id": 19,
@@ -218,7 +236,8 @@
                 "normal"
             ],
             "height": 3,
-            "weight": 35
+            "weight": 35,
+            "color": "purple"
         },
         {
             "id": 20,
@@ -229,7 +248,8 @@
                 "normal"
             ],
             "height": 7,
-            "weight": 185
+            "weight": 185,
+            "color": "brown"
         },
         {
             "id": 21,
@@ -241,7 +261,8 @@
                 "flying"
             ],
             "height": 3,
-            "weight": 20
+            "weight": 20,
+            "color": "brown"
         },
         {
             "id": 22,
@@ -253,7 +274,8 @@
                 "flying"
             ],
             "height": 12,
-            "weight": 380
+            "weight": 380,
+            "color": "brown"
         },
         {
             "id": 23,
@@ -264,7 +286,8 @@
                 "poison"
             ],
             "height": 20,
-            "weight": 69
+            "weight": 69,
+            "color": "purple"
         },
         {
             "id": 24,
@@ -275,7 +298,8 @@
                 "poison"
             ],
             "height": 35,
-            "weight": 650
+            "weight": 650,
+            "color": "purple"
         },
         {
             "id": 25,
@@ -286,7 +310,8 @@
                 "electric"
             ],
             "height": 4,
-            "weight": 60
+            "weight": 60,
+            "color": "yellow"
         },
         {
             "id": 26,
@@ -297,7 +322,8 @@
                 "electric"
             ],
             "height": 8,
-            "weight": 300
+            "weight": 300,
+            "color": "yellow"
         },
         {
             "id": 27,
@@ -308,7 +334,8 @@
                 "ground"
             ],
             "height": 6,
-            "weight": 120
+            "weight": 120,
+            "color": "yellow"
         },
         {
             "id": 28,
@@ -319,7 +346,8 @@
                 "ground"
             ],
             "height": 10,
-            "weight": 295
+            "weight": 295,
+            "color": "yellow"
         },
         {
             "id": 29,
@@ -330,7 +358,8 @@
                 "poison"
             ],
             "height": 4,
-            "weight": 70
+            "weight": 70,
+            "color": "blue"
         },
         {
             "id": 30,
@@ -341,7 +370,8 @@
                 "poison"
             ],
             "height": 8,
-            "weight": 200
+            "weight": 200,
+            "color": "blue"
         },
         {
             "id": 31,
@@ -353,7 +383,8 @@
                 "ground"
             ],
             "height": 13,
-            "weight": 600
+            "weight": 600,
+            "color": "blue"
         },
         {
             "id": 32,
@@ -364,7 +395,8 @@
                 "poison"
             ],
             "height": 5,
-            "weight": 90
+            "weight": 90,
+            "color": "purple"
         },
         {
             "id": 33,
@@ -375,7 +407,8 @@
                 "poison"
             ],
             "height": 9,
-            "weight": 195
+            "weight": 195,
+            "color": "purple"
         },
         {
             "id": 34,
@@ -387,7 +420,8 @@
                 "ground"
             ],
             "height": 14,
-            "weight": 620
+            "weight": 620,
+            "color": "purple"
         },
         {
             "id": 35,
@@ -398,7 +432,8 @@
                 "fairy"
             ],
             "height": 6,
-            "weight": 75
+            "weight": 75,
+            "color": "pink"
         },
         {
             "id": 36,
@@ -409,7 +444,8 @@
                 "fairy"
             ],
             "height": 13,
-            "weight": 400
+            "weight": 400,
+            "color": "pink"
         },
         {
             "id": 37,
@@ -420,7 +456,8 @@
                 "fire"
             ],
             "height": 6,
-            "weight": 99
+            "weight": 99,
+            "color": "brown"
         },
         {
             "id": 38,
@@ -431,7 +468,8 @@
                 "fire"
             ],
             "height": 11,
-            "weight": 199
+            "weight": 199,
+            "color": "yellow"
         },
         {
             "id": 39,
@@ -443,7 +481,8 @@
                 "fairy"
             ],
             "height": 5,
-            "weight": 55
+            "weight": 55,
+            "color": "pink"
         },
         {
             "id": 40,
@@ -455,7 +494,8 @@
                 "fairy"
             ],
             "height": 10,
-            "weight": 120
+            "weight": 120,
+            "color": "pink"
         },
         {
             "id": 41,
@@ -467,7 +507,8 @@
                 "flying"
             ],
             "height": 8,
-            "weight": 75
+            "weight": 75,
+            "color": "purple"
         },
         {
             "id": 42,
@@ -479,7 +520,8 @@
                 "flying"
             ],
             "height": 16,
-            "weight": 550
+            "weight": 550,
+            "color": "purple"
         },
         {
             "id": 43,
@@ -491,7 +533,8 @@
                 "poison"
             ],
             "height": 5,
-            "weight": 54
+            "weight": 54,
+            "color": "blue"
         },
         {
             "id": 44,
@@ -503,7 +546,8 @@
                 "poison"
             ],
             "height": 8,
-            "weight": 86
+            "weight": 86,
+            "color": "blue"
         },
         {
             "id": 45,
@@ -515,7 +559,8 @@
                 "poison"
             ],
             "height": 12,
-            "weight": 186
+            "weight": 186,
+            "color": "red"
         },
         {
             "id": 46,
@@ -527,7 +572,8 @@
                 "grass"
             ],
             "height": 3,
-            "weight": 54
+            "weight": 54,
+            "color": "red"
         },
         {
             "id": 47,
@@ -539,7 +585,8 @@
                 "grass"
             ],
             "height": 10,
-            "weight": 295
+            "weight": 295,
+            "color": "red"
         },
         {
             "id": 48,
@@ -551,7 +598,8 @@
                 "poison"
             ],
             "height": 10,
-            "weight": 300
+            "weight": 300,
+            "color": "purple"
         },
         {
             "id": 49,
@@ -563,7 +611,8 @@
                 "poison"
             ],
             "height": 15,
-            "weight": 125
+            "weight": 125,
+            "color": "purple"
         },
         {
             "id": 50,
@@ -574,7 +623,8 @@
                 "ground"
             ],
             "height": 2,
-            "weight": 8
+            "weight": 8,
+            "color": "brown"
         },
         {
             "id": 51,
@@ -585,7 +635,8 @@
                 "ground"
             ],
             "height": 7,
-            "weight": 333
+            "weight": 333,
+            "color": "brown"
         },
         {
             "id": 52,
@@ -596,7 +647,8 @@
                 "normal"
             ],
             "height": 4,
-            "weight": 42
+            "weight": 42,
+            "color": "yellow"
         },
         {
             "id": 53,
@@ -607,7 +659,8 @@
                 "normal"
             ],
             "height": 10,
-            "weight": 320
+            "weight": 320,
+            "color": "yellow"
         },
         {
             "id": 54,
@@ -618,7 +671,8 @@
                 "water"
             ],
             "height": 8,
-            "weight": 196
+            "weight": 196,
+            "color": "yellow"
         },
         {
             "id": 55,
@@ -629,7 +683,8 @@
                 "water"
             ],
             "height": 17,
-            "weight": 766
+            "weight": 766,
+            "color": "blue"
         },
         {
             "id": 56,
@@ -640,7 +695,8 @@
                 "fighting"
             ],
             "height": 5,
-            "weight": 280
+            "weight": 280,
+            "color": "brown"
         },
         {
             "id": 57,
@@ -651,7 +707,8 @@
                 "fighting"
             ],
             "height": 10,
-            "weight": 320
+            "weight": 320,
+            "color": "brown"
         },
         {
             "id": 58,
@@ -662,7 +719,8 @@
                 "fire"
             ],
             "height": 7,
-            "weight": 190
+            "weight": 190,
+            "color": "brown"
         },
         {
             "id": 59,
@@ -673,7 +731,8 @@
                 "fire"
             ],
             "height": 19,
-            "weight": 1550
+            "weight": 1550,
+            "color": "brown"
         },
         {
             "id": 60,
@@ -684,7 +743,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 124
+            "weight": 124,
+            "color": "blue"
         },
         {
             "id": 61,
@@ -695,7 +755,8 @@
                 "water"
             ],
             "height": 10,
-            "weight": 200
+            "weight": 200,
+            "color": "blue"
         },
         {
             "id": 62,
@@ -707,7 +768,8 @@
                 "fighting"
             ],
             "height": 13,
-            "weight": 540
+            "weight": 540,
+            "color": "blue"
         },
         {
             "id": 63,
@@ -718,7 +780,8 @@
                 "psychic"
             ],
             "height": 9,
-            "weight": 195
+            "weight": 195,
+            "color": "brown"
         },
         {
             "id": 64,
@@ -729,7 +792,8 @@
                 "psychic"
             ],
             "height": 13,
-            "weight": 565
+            "weight": 565,
+            "color": "brown"
         },
         {
             "id": 65,
@@ -740,7 +804,8 @@
                 "psychic"
             ],
             "height": 15,
-            "weight": 480
+            "weight": 480,
+            "color": "brown"
         },
         {
             "id": 66,
@@ -751,7 +816,8 @@
                 "fighting"
             ],
             "height": 8,
-            "weight": 195
+            "weight": 195,
+            "color": "gray"
         },
         {
             "id": 67,
@@ -762,7 +828,8 @@
                 "fighting"
             ],
             "height": 15,
-            "weight": 705
+            "weight": 705,
+            "color": "gray"
         },
         {
             "id": 68,
@@ -773,7 +840,8 @@
                 "fighting"
             ],
             "height": 16,
-            "weight": 1300
+            "weight": 1300,
+            "color": "gray"
         },
         {
             "id": 69,
@@ -785,7 +853,8 @@
                 "poison"
             ],
             "height": 7,
-            "weight": 40
+            "weight": 40,
+            "color": "green"
         },
         {
             "id": 70,
@@ -797,7 +866,8 @@
                 "poison"
             ],
             "height": 10,
-            "weight": 64
+            "weight": 64,
+            "color": "green"
         },
         {
             "id": 71,
@@ -809,7 +879,8 @@
                 "poison"
             ],
             "height": 17,
-            "weight": 155
+            "weight": 155,
+            "color": "green"
         },
         {
             "id": 72,
@@ -821,7 +892,8 @@
                 "poison"
             ],
             "height": 9,
-            "weight": 455
+            "weight": 455,
+            "color": "blue"
         },
         {
             "id": 73,
@@ -833,7 +905,8 @@
                 "poison"
             ],
             "height": 16,
-            "weight": 550
+            "weight": 550,
+            "color": "blue"
         },
         {
             "id": 74,
@@ -845,7 +918,8 @@
                 "ground"
             ],
             "height": 4,
-            "weight": 200
+            "weight": 200,
+            "color": "brown"
         },
         {
             "id": 75,
@@ -857,7 +931,8 @@
                 "ground"
             ],
             "height": 10,
-            "weight": 1050
+            "weight": 1050,
+            "color": "brown"
         },
         {
             "id": 76,
@@ -869,7 +944,8 @@
                 "ground"
             ],
             "height": 14,
-            "weight": 3000
+            "weight": 3000,
+            "color": "brown"
         },
         {
             "id": 77,
@@ -880,7 +956,8 @@
                 "fire"
             ],
             "height": 10,
-            "weight": 300
+            "weight": 300,
+            "color": "yellow"
         },
         {
             "id": 78,
@@ -891,7 +968,8 @@
                 "fire"
             ],
             "height": 17,
-            "weight": 950
+            "weight": 950,
+            "color": "yellow"
         },
         {
             "id": 79,
@@ -903,7 +981,8 @@
                 "psychic"
             ],
             "height": 12,
-            "weight": 360
+            "weight": 360,
+            "color": "pink"
         },
         {
             "id": 80,
@@ -915,7 +994,8 @@
                 "psychic"
             ],
             "height": 16,
-            "weight": 785
+            "weight": 785,
+            "color": "pink"
         },
         {
             "id": 81,
@@ -927,7 +1007,8 @@
                 "steel"
             ],
             "height": 3,
-            "weight": 60
+            "weight": 60,
+            "color": "gray"
         },
         {
             "id": 82,
@@ -939,7 +1020,8 @@
                 "steel"
             ],
             "height": 10,
-            "weight": 600
+            "weight": 600,
+            "color": "gray"
         },
         {
             "id": 83,
@@ -951,7 +1033,8 @@
                 "flying"
             ],
             "height": 8,
-            "weight": 150
+            "weight": 150,
+            "color": "brown"
         },
         {
             "id": 84,
@@ -963,7 +1046,8 @@
                 "flying"
             ],
             "height": 14,
-            "weight": 392
+            "weight": 392,
+            "color": "brown"
         },
         {
             "id": 85,
@@ -975,7 +1059,8 @@
                 "flying"
             ],
             "height": 18,
-            "weight": 852
+            "weight": 852,
+            "color": "brown"
         },
         {
             "id": 86,
@@ -986,7 +1071,8 @@
                 "water"
             ],
             "height": 11,
-            "weight": 900
+            "weight": 900,
+            "color": "white"
         },
         {
             "id": 87,
@@ -998,7 +1084,8 @@
                 "ice"
             ],
             "height": 17,
-            "weight": 1200
+            "weight": 1200,
+            "color": "white"
         },
         {
             "id": 88,
@@ -1009,7 +1096,8 @@
                 "poison"
             ],
             "height": 9,
-            "weight": 300
+            "weight": 300,
+            "color": "purple"
         },
         {
             "id": 89,
@@ -1020,7 +1108,8 @@
                 "poison"
             ],
             "height": 12,
-            "weight": 300
+            "weight": 300,
+            "color": "purple"
         },
         {
             "id": 90,
@@ -1031,7 +1120,8 @@
                 "water"
             ],
             "height": 3,
-            "weight": 40
+            "weight": 40,
+            "color": "purple"
         },
         {
             "id": 91,
@@ -1043,7 +1133,8 @@
                 "ice"
             ],
             "height": 15,
-            "weight": 1325
+            "weight": 1325,
+            "color": "purple"
         },
         {
             "id": 92,
@@ -1055,7 +1146,8 @@
                 "poison"
             ],
             "height": 13,
-            "weight": 1
+            "weight": 1,
+            "color": "purple"
         },
         {
             "id": 93,
@@ -1067,7 +1159,8 @@
                 "poison"
             ],
             "height": 16,
-            "weight": 1
+            "weight": 1,
+            "color": "purple"
         },
         {
             "id": 94,
@@ -1079,7 +1172,8 @@
                 "poison"
             ],
             "height": 15,
-            "weight": 405
+            "weight": 405,
+            "color": "purple"
         },
         {
             "id": 95,
@@ -1091,7 +1185,8 @@
                 "ground"
             ],
             "height": 88,
-            "weight": 2100
+            "weight": 2100,
+            "color": "gray"
         },
         {
             "id": 96,
@@ -1102,7 +1197,8 @@
                 "psychic"
             ],
             "height": 10,
-            "weight": 324
+            "weight": 324,
+            "color": "yellow"
         },
         {
             "id": 97,
@@ -1113,7 +1209,8 @@
                 "psychic"
             ],
             "height": 16,
-            "weight": 756
+            "weight": 756,
+            "color": "yellow"
         },
         {
             "id": 98,
@@ -1124,7 +1221,8 @@
                 "water"
             ],
             "height": 4,
-            "weight": 65
+            "weight": 65,
+            "color": "red"
         },
         {
             "id": 99,
@@ -1135,7 +1233,8 @@
                 "water"
             ],
             "height": 13,
-            "weight": 600
+            "weight": 600,
+            "color": "red"
         },
         {
             "id": 100,
@@ -1146,7 +1245,8 @@
                 "electric"
             ],
             "height": 5,
-            "weight": 104
+            "weight": 104,
+            "color": "red"
         },
         {
             "id": 101,
@@ -1157,7 +1257,8 @@
                 "electric"
             ],
             "height": 12,
-            "weight": 666
+            "weight": 666,
+            "color": "red"
         },
         {
             "id": 102,
@@ -1169,7 +1270,8 @@
                 "psychic"
             ],
             "height": 4,
-            "weight": 25
+            "weight": 25,
+            "color": "pink"
         },
         {
             "id": 103,
@@ -1181,7 +1283,8 @@
                 "psychic"
             ],
             "height": 20,
-            "weight": 1200
+            "weight": 1200,
+            "color": "yellow"
         },
         {
             "id": 104,
@@ -1192,7 +1295,8 @@
                 "ground"
             ],
             "height": 4,
-            "weight": 65
+            "weight": 65,
+            "color": "brown"
         },
         {
             "id": 105,
@@ -1203,7 +1307,8 @@
                 "ground"
             ],
             "height": 10,
-            "weight": 450
+            "weight": 450,
+            "color": "brown"
         },
         {
             "id": 106,
@@ -1214,7 +1319,8 @@
                 "fighting"
             ],
             "height": 15,
-            "weight": 498
+            "weight": 498,
+            "color": "brown"
         },
         {
             "id": 107,
@@ -1225,7 +1331,8 @@
                 "fighting"
             ],
             "height": 14,
-            "weight": 502
+            "weight": 502,
+            "color": "brown"
         },
         {
             "id": 108,
@@ -1236,7 +1343,8 @@
                 "normal"
             ],
             "height": 12,
-            "weight": 655
+            "weight": 655,
+            "color": "pink"
         },
         {
             "id": 109,
@@ -1247,7 +1355,8 @@
                 "poison"
             ],
             "height": 6,
-            "weight": 10
+            "weight": 10,
+            "color": "purple"
         },
         {
             "id": 110,
@@ -1258,7 +1367,8 @@
                 "poison"
             ],
             "height": 12,
-            "weight": 95
+            "weight": 95,
+            "color": "purple"
         },
         {
             "id": 111,
@@ -1270,7 +1380,8 @@
                 "rock"
             ],
             "height": 10,
-            "weight": 1150
+            "weight": 1150,
+            "color": "gray"
         },
         {
             "id": 112,
@@ -1282,7 +1393,8 @@
                 "rock"
             ],
             "height": 19,
-            "weight": 1200
+            "weight": 1200,
+            "color": "gray"
         },
         {
             "id": 113,
@@ -1293,7 +1405,8 @@
                 "normal"
             ],
             "height": 11,
-            "weight": 346
+            "weight": 346,
+            "color": "pink"
         },
         {
             "id": 114,
@@ -1304,7 +1417,8 @@
                 "grass"
             ],
             "height": 10,
-            "weight": 350
+            "weight": 350,
+            "color": "blue"
         },
         {
             "id": 115,
@@ -1315,7 +1429,8 @@
                 "normal"
             ],
             "height": 22,
-            "weight": 800
+            "weight": 800,
+            "color": "brown"
         },
         {
             "id": 116,
@@ -1326,7 +1441,8 @@
                 "water"
             ],
             "height": 4,
-            "weight": 80
+            "weight": 80,
+            "color": "blue"
         },
         {
             "id": 117,
@@ -1337,7 +1453,8 @@
                 "water"
             ],
             "height": 12,
-            "weight": 250
+            "weight": 250,
+            "color": "blue"
         },
         {
             "id": 118,
@@ -1348,7 +1465,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 150
+            "weight": 150,
+            "color": "red"
         },
         {
             "id": 119,
@@ -1359,7 +1477,8 @@
                 "water"
             ],
             "height": 13,
-            "weight": 390
+            "weight": 390,
+            "color": "red"
         },
         {
             "id": 120,
@@ -1370,7 +1489,8 @@
                 "water"
             ],
             "height": 8,
-            "weight": 345
+            "weight": 345,
+            "color": "brown"
         },
         {
             "id": 121,
@@ -1382,7 +1502,8 @@
                 "psychic"
             ],
             "height": 11,
-            "weight": 800
+            "weight": 800,
+            "color": "purple"
         },
         {
             "id": 122,
@@ -1394,7 +1515,8 @@
                 "fairy"
             ],
             "height": 13,
-            "weight": 545
+            "weight": 545,
+            "color": "pink"
         },
         {
             "id": 123,
@@ -1406,7 +1528,8 @@
                 "flying"
             ],
             "height": 15,
-            "weight": 560
+            "weight": 560,
+            "color": "green"
         },
         {
             "id": 124,
@@ -1418,7 +1541,8 @@
                 "psychic"
             ],
             "height": 14,
-            "weight": 406
+            "weight": 406,
+            "color": "red"
         },
         {
             "id": 125,
@@ -1429,7 +1553,8 @@
                 "electric"
             ],
             "height": 11,
-            "weight": 300
+            "weight": 300,
+            "color": "yellow"
         },
         {
             "id": 126,
@@ -1440,7 +1565,8 @@
                 "fire"
             ],
             "height": 13,
-            "weight": 445
+            "weight": 445,
+            "color": "red"
         },
         {
             "id": 127,
@@ -1451,7 +1577,8 @@
                 "bug"
             ],
             "height": 15,
-            "weight": 550
+            "weight": 550,
+            "color": "brown"
         },
         {
             "id": 128,
@@ -1462,7 +1589,8 @@
                 "normal"
             ],
             "height": 14,
-            "weight": 884
+            "weight": 884,
+            "color": "brown"
         },
         {
             "id": 129,
@@ -1473,7 +1601,8 @@
                 "water"
             ],
             "height": 9,
-            "weight": 100
+            "weight": 100,
+            "color": "red"
         },
         {
             "id": 130,
@@ -1485,7 +1614,8 @@
                 "flying"
             ],
             "height": 65,
-            "weight": 2350
+            "weight": 2350,
+            "color": "blue"
         },
         {
             "id": 131,
@@ -1497,7 +1627,8 @@
                 "ice"
             ],
             "height": 25,
-            "weight": 2200
+            "weight": 2200,
+            "color": "blue"
         },
         {
             "id": 132,
@@ -1508,7 +1639,8 @@
                 "normal"
             ],
             "height": 3,
-            "weight": 40
+            "weight": 40,
+            "color": "purple"
         },
         {
             "id": 133,
@@ -1519,7 +1651,8 @@
                 "normal"
             ],
             "height": 3,
-            "weight": 65
+            "weight": 65,
+            "color": "brown"
         },
         {
             "id": 134,
@@ -1530,7 +1663,8 @@
                 "water"
             ],
             "height": 10,
-            "weight": 290
+            "weight": 290,
+            "color": "blue"
         },
         {
             "id": 135,
@@ -1541,7 +1675,8 @@
                 "electric"
             ],
             "height": 8,
-            "weight": 245
+            "weight": 245,
+            "color": "yellow"
         },
         {
             "id": 136,
@@ -1552,7 +1687,8 @@
                 "fire"
             ],
             "height": 9,
-            "weight": 250
+            "weight": 250,
+            "color": "red"
         },
         {
             "id": 137,
@@ -1563,7 +1699,8 @@
                 "normal"
             ],
             "height": 8,
-            "weight": 365
+            "weight": 365,
+            "color": "pink"
         },
         {
             "id": 138,
@@ -1575,7 +1712,8 @@
                 "water"
             ],
             "height": 4,
-            "weight": 75
+            "weight": 75,
+            "color": "blue"
         },
         {
             "id": 139,
@@ -1587,7 +1725,8 @@
                 "water"
             ],
             "height": 10,
-            "weight": 350
+            "weight": 350,
+            "color": "blue"
         },
         {
             "id": 140,
@@ -1599,7 +1738,8 @@
                 "water"
             ],
             "height": 5,
-            "weight": 115
+            "weight": 115,
+            "color": "brown"
         },
         {
             "id": 141,
@@ -1611,7 +1751,8 @@
                 "water"
             ],
             "height": 13,
-            "weight": 405
+            "weight": 405,
+            "color": "brown"
         },
         {
             "id": 142,
@@ -1623,7 +1764,8 @@
                 "flying"
             ],
             "height": 18,
-            "weight": 590
+            "weight": 590,
+            "color": "purple"
         },
         {
             "id": 143,
@@ -1634,7 +1776,8 @@
                 "normal"
             ],
             "height": 21,
-            "weight": 4600
+            "weight": 4600,
+            "color": "black"
         },
         {
             "id": 144,
@@ -1646,7 +1789,8 @@
                 "flying"
             ],
             "height": 17,
-            "weight": 554
+            "weight": 554,
+            "color": "blue"
         },
         {
             "id": 145,
@@ -1658,7 +1802,8 @@
                 "flying"
             ],
             "height": 16,
-            "weight": 526
+            "weight": 526,
+            "color": "yellow"
         },
         {
             "id": 146,
@@ -1670,7 +1815,8 @@
                 "flying"
             ],
             "height": 20,
-            "weight": 600
+            "weight": 600,
+            "color": "yellow"
         },
         {
             "id": 147,
@@ -1681,7 +1827,8 @@
                 "dragon"
             ],
             "height": 18,
-            "weight": 33
+            "weight": 33,
+            "color": "blue"
         },
         {
             "id": 148,
@@ -1692,7 +1839,8 @@
                 "dragon"
             ],
             "height": 40,
-            "weight": 165
+            "weight": 165,
+            "color": "blue"
         },
         {
             "id": 149,
@@ -1704,7 +1852,8 @@
                 "flying"
             ],
             "height": 22,
-            "weight": 2100
+            "weight": 2100,
+            "color": "brown"
         },
         {
             "id": 150,
@@ -1715,7 +1864,8 @@
                 "psychic"
             ],
             "height": 20,
-            "weight": 1220
+            "weight": 1220,
+            "color": "purple"
         },
         {
             "id": 151,
@@ -1726,7 +1876,8 @@
                 "psychic"
             ],
             "height": 4,
-            "weight": 40
+            "weight": 40,
+            "color": "pink"
         },
         {
             "id": 152,
@@ -1737,7 +1888,8 @@
                 "grass"
             ],
             "height": 9,
-            "weight": 64
+            "weight": 64,
+            "color": "green"
         },
         {
             "id": 153,
@@ -1748,7 +1900,8 @@
                 "grass"
             ],
             "height": 12,
-            "weight": 158
+            "weight": 158,
+            "color": "green"
         },
         {
             "id": 154,
@@ -1759,7 +1912,8 @@
                 "grass"
             ],
             "height": 18,
-            "weight": 1005
+            "weight": 1005,
+            "color": "green"
         },
         {
             "id": 155,
@@ -1770,7 +1924,8 @@
                 "fire"
             ],
             "height": 5,
-            "weight": 79
+            "weight": 79,
+            "color": "yellow"
         },
         {
             "id": 156,
@@ -1781,7 +1936,8 @@
                 "fire"
             ],
             "height": 9,
-            "weight": 190
+            "weight": 190,
+            "color": "yellow"
         },
         {
             "id": 157,
@@ -1792,7 +1948,8 @@
                 "fire"
             ],
             "height": 17,
-            "weight": 795
+            "weight": 795,
+            "color": "yellow"
         },
         {
             "id": 158,
@@ -1803,7 +1960,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 95
+            "weight": 95,
+            "color": "blue"
         },
         {
             "id": 159,
@@ -1814,7 +1972,8 @@
                 "water"
             ],
             "height": 11,
-            "weight": 250
+            "weight": 250,
+            "color": "blue"
         },
         {
             "id": 160,
@@ -1825,7 +1984,8 @@
                 "water"
             ],
             "height": 23,
-            "weight": 888
+            "weight": 888,
+            "color": "blue"
         },
         {
             "id": 161,
@@ -1836,7 +1996,8 @@
                 "normal"
             ],
             "height": 8,
-            "weight": 60
+            "weight": 60,
+            "color": "brown"
         },
         {
             "id": 162,
@@ -1847,7 +2008,8 @@
                 "normal"
             ],
             "height": 18,
-            "weight": 325
+            "weight": 325,
+            "color": "brown"
         },
         {
             "id": 163,
@@ -1859,7 +2021,8 @@
                 "flying"
             ],
             "height": 7,
-            "weight": 212
+            "weight": 212,
+            "color": "brown"
         },
         {
             "id": 164,
@@ -1871,7 +2034,8 @@
                 "flying"
             ],
             "height": 16,
-            "weight": 408
+            "weight": 408,
+            "color": "brown"
         },
         {
             "id": 165,
@@ -1883,7 +2047,8 @@
                 "flying"
             ],
             "height": 10,
-            "weight": 108
+            "weight": 108,
+            "color": "red"
         },
         {
             "id": 166,
@@ -1895,7 +2060,8 @@
                 "flying"
             ],
             "height": 14,
-            "weight": 356
+            "weight": 356,
+            "color": "red"
         },
         {
             "id": 167,
@@ -1907,7 +2073,8 @@
                 "poison"
             ],
             "height": 5,
-            "weight": 85
+            "weight": 85,
+            "color": "green"
         },
         {
             "id": 168,
@@ -1919,7 +2086,8 @@
                 "poison"
             ],
             "height": 11,
-            "weight": 335
+            "weight": 335,
+            "color": "red"
         },
         {
             "id": 169,
@@ -1931,7 +2099,8 @@
                 "flying"
             ],
             "height": 18,
-            "weight": 750
+            "weight": 750,
+            "color": "purple"
         },
         {
             "id": 170,
@@ -1943,7 +2112,8 @@
                 "electric"
             ],
             "height": 5,
-            "weight": 120
+            "weight": 120,
+            "color": "blue"
         },
         {
             "id": 171,
@@ -1955,7 +2125,8 @@
                 "electric"
             ],
             "height": 12,
-            "weight": 225
+            "weight": 225,
+            "color": "blue"
         },
         {
             "id": 172,
@@ -1966,7 +2137,8 @@
                 "electric"
             ],
             "height": 3,
-            "weight": 20
+            "weight": 20,
+            "color": "yellow"
         },
         {
             "id": 173,
@@ -1977,7 +2149,8 @@
                 "fairy"
             ],
             "height": 3,
-            "weight": 30
+            "weight": 30,
+            "color": "pink"
         },
         {
             "id": 174,
@@ -1989,7 +2162,8 @@
                 "fairy"
             ],
             "height": 3,
-            "weight": 10
+            "weight": 10,
+            "color": "pink"
         },
         {
             "id": 175,
@@ -2000,7 +2174,8 @@
                 "fairy"
             ],
             "height": 3,
-            "weight": 15
+            "weight": 15,
+            "color": "white"
         },
         {
             "id": 176,
@@ -2012,7 +2187,8 @@
                 "flying"
             ],
             "height": 6,
-            "weight": 32
+            "weight": 32,
+            "color": "white"
         },
         {
             "id": 177,
@@ -2024,7 +2200,8 @@
                 "flying"
             ],
             "height": 2,
-            "weight": 20
+            "weight": 20,
+            "color": "green"
         },
         {
             "id": 178,
@@ -2036,7 +2213,8 @@
                 "flying"
             ],
             "height": 15,
-            "weight": 150
+            "weight": 150,
+            "color": "green"
         },
         {
             "id": 179,
@@ -2047,7 +2225,8 @@
                 "electric"
             ],
             "height": 6,
-            "weight": 78
+            "weight": 78,
+            "color": "white"
         },
         {
             "id": 180,
@@ -2058,7 +2237,8 @@
                 "electric"
             ],
             "height": 8,
-            "weight": 133
+            "weight": 133,
+            "color": "pink"
         },
         {
             "id": 181,
@@ -2069,7 +2249,8 @@
                 "electric"
             ],
             "height": 14,
-            "weight": 615
+            "weight": 615,
+            "color": "yellow"
         },
         {
             "id": 182,
@@ -2080,7 +2261,8 @@
                 "grass"
             ],
             "height": 4,
-            "weight": 58
+            "weight": 58,
+            "color": "green"
         },
         {
             "id": 183,
@@ -2092,7 +2274,8 @@
                 "fairy"
             ],
             "height": 4,
-            "weight": 85
+            "weight": 85,
+            "color": "blue"
         },
         {
             "id": 184,
@@ -2104,7 +2287,8 @@
                 "fairy"
             ],
             "height": 8,
-            "weight": 285
+            "weight": 285,
+            "color": "blue"
         },
         {
             "id": 185,
@@ -2115,7 +2299,8 @@
                 "rock"
             ],
             "height": 12,
-            "weight": 380
+            "weight": 380,
+            "color": "brown"
         },
         {
             "id": 186,
@@ -2126,7 +2311,8 @@
                 "water"
             ],
             "height": 11,
-            "weight": 339
+            "weight": 339,
+            "color": "green"
         },
         {
             "id": 187,
@@ -2138,7 +2324,8 @@
                 "flying"
             ],
             "height": 4,
-            "weight": 5
+            "weight": 5,
+            "color": "pink"
         },
         {
             "id": 188,
@@ -2150,7 +2337,8 @@
                 "flying"
             ],
             "height": 6,
-            "weight": 10
+            "weight": 10,
+            "color": "green"
         },
         {
             "id": 189,
@@ -2162,7 +2350,8 @@
                 "flying"
             ],
             "height": 8,
-            "weight": 30
+            "weight": 30,
+            "color": "blue"
         },
         {
             "id": 190,
@@ -2173,7 +2362,8 @@
                 "normal"
             ],
             "height": 8,
-            "weight": 115
+            "weight": 115,
+            "color": "purple"
         },
         {
             "id": 191,
@@ -2184,7 +2374,8 @@
                 "grass"
             ],
             "height": 3,
-            "weight": 18
+            "weight": 18,
+            "color": "yellow"
         },
         {
             "id": 192,
@@ -2195,7 +2386,8 @@
                 "grass"
             ],
             "height": 8,
-            "weight": 85
+            "weight": 85,
+            "color": "yellow"
         },
         {
             "id": 193,
@@ -2207,7 +2399,8 @@
                 "flying"
             ],
             "height": 12,
-            "weight": 380
+            "weight": 380,
+            "color": "red"
         },
         {
             "id": 194,
@@ -2219,7 +2412,8 @@
                 "ground"
             ],
             "height": 4,
-            "weight": 85
+            "weight": 85,
+            "color": "blue"
         },
         {
             "id": 195,
@@ -2231,7 +2425,8 @@
                 "ground"
             ],
             "height": 14,
-            "weight": 750
+            "weight": 750,
+            "color": "blue"
         },
         {
             "id": 196,
@@ -2242,7 +2437,8 @@
                 "psychic"
             ],
             "height": 9,
-            "weight": 265
+            "weight": 265,
+            "color": "purple"
         },
         {
             "id": 197,
@@ -2253,7 +2449,8 @@
                 "dark"
             ],
             "height": 10,
-            "weight": 270
+            "weight": 270,
+            "color": "black"
         },
         {
             "id": 198,
@@ -2265,7 +2462,8 @@
                 "flying"
             ],
             "height": 5,
-            "weight": 21
+            "weight": 21,
+            "color": "black"
         },
         {
             "id": 199,
@@ -2277,7 +2475,8 @@
                 "psychic"
             ],
             "height": 20,
-            "weight": 795
+            "weight": 795,
+            "color": "pink"
         },
         {
             "id": 200,
@@ -2288,7 +2487,8 @@
                 "ghost"
             ],
             "height": 7,
-            "weight": 10
+            "weight": 10,
+            "color": "gray"
         },
         {
             "id": 201,
@@ -2299,7 +2499,8 @@
                 "psychic"
             ],
             "height": 5,
-            "weight": 50
+            "weight": 50,
+            "color": "black"
         },
         {
             "id": 202,
@@ -2310,7 +2511,8 @@
                 "psychic"
             ],
             "height": 13,
-            "weight": 285
+            "weight": 285,
+            "color": "blue"
         },
         {
             "id": 203,
@@ -2322,7 +2524,8 @@
                 "psychic"
             ],
             "height": 15,
-            "weight": 415
+            "weight": 415,
+            "color": "yellow"
         },
         {
             "id": 204,
@@ -2333,7 +2536,8 @@
                 "bug"
             ],
             "height": 6,
-            "weight": 72
+            "weight": 72,
+            "color": "gray"
         },
         {
             "id": 205,
@@ -2345,7 +2549,8 @@
                 "steel"
             ],
             "height": 12,
-            "weight": 1258
+            "weight": 1258,
+            "color": "purple"
         },
         {
             "id": 206,
@@ -2356,7 +2561,8 @@
                 "normal"
             ],
             "height": 15,
-            "weight": 140
+            "weight": 140,
+            "color": "yellow"
         },
         {
             "id": 207,
@@ -2368,7 +2574,8 @@
                 "flying"
             ],
             "height": 11,
-            "weight": 648
+            "weight": 648,
+            "color": "purple"
         },
         {
             "id": 208,
@@ -2380,7 +2587,8 @@
                 "ground"
             ],
             "height": 92,
-            "weight": 4000
+            "weight": 4000,
+            "color": "gray"
         },
         {
             "id": 209,
@@ -2391,7 +2599,8 @@
                 "fairy"
             ],
             "height": 6,
-            "weight": 78
+            "weight": 78,
+            "color": "pink"
         },
         {
             "id": 210,
@@ -2402,7 +2611,8 @@
                 "fairy"
             ],
             "height": 14,
-            "weight": 487
+            "weight": 487,
+            "color": "purple"
         },
         {
             "id": 211,
@@ -2414,7 +2624,8 @@
                 "poison"
             ],
             "height": 5,
-            "weight": 39
+            "weight": 39,
+            "color": "gray"
         },
         {
             "id": 212,
@@ -2426,7 +2637,8 @@
                 "steel"
             ],
             "height": 18,
-            "weight": 1180
+            "weight": 1180,
+            "color": "red"
         },
         {
             "id": 213,
@@ -2438,7 +2650,8 @@
                 "rock"
             ],
             "height": 6,
-            "weight": 205
+            "weight": 205,
+            "color": "yellow"
         },
         {
             "id": 214,
@@ -2450,7 +2663,8 @@
                 "fighting"
             ],
             "height": 15,
-            "weight": 540
+            "weight": 540,
+            "color": "blue"
         },
         {
             "id": 215,
@@ -2462,7 +2676,8 @@
                 "ice"
             ],
             "height": 9,
-            "weight": 280
+            "weight": 280,
+            "color": "black"
         },
         {
             "id": 216,
@@ -2473,7 +2688,8 @@
                 "normal"
             ],
             "height": 6,
-            "weight": 88
+            "weight": 88,
+            "color": "brown"
         },
         {
             "id": 217,
@@ -2484,7 +2700,8 @@
                 "normal"
             ],
             "height": 18,
-            "weight": 1258
+            "weight": 1258,
+            "color": "brown"
         },
         {
             "id": 218,
@@ -2495,7 +2712,8 @@
                 "fire"
             ],
             "height": 7,
-            "weight": 350
+            "weight": 350,
+            "color": "red"
         },
         {
             "id": 219,
@@ -2507,7 +2725,8 @@
                 "rock"
             ],
             "height": 8,
-            "weight": 550
+            "weight": 550,
+            "color": "red"
         },
         {
             "id": 220,
@@ -2519,7 +2738,8 @@
                 "ground"
             ],
             "height": 4,
-            "weight": 65
+            "weight": 65,
+            "color": "brown"
         },
         {
             "id": 221,
@@ -2531,7 +2751,8 @@
                 "ground"
             ],
             "height": 11,
-            "weight": 558
+            "weight": 558,
+            "color": "brown"
         },
         {
             "id": 222,
@@ -2543,7 +2764,8 @@
                 "rock"
             ],
             "height": 6,
-            "weight": 50
+            "weight": 50,
+            "color": "pink"
         },
         {
             "id": 223,
@@ -2554,7 +2776,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 120
+            "weight": 120,
+            "color": "gray"
         },
         {
             "id": 224,
@@ -2565,7 +2788,8 @@
                 "water"
             ],
             "height": 9,
-            "weight": 285
+            "weight": 285,
+            "color": "red"
         },
         {
             "id": 225,
@@ -2577,7 +2801,8 @@
                 "flying"
             ],
             "height": 9,
-            "weight": 160
+            "weight": 160,
+            "color": "red"
         },
         {
             "id": 226,
@@ -2589,7 +2814,8 @@
                 "flying"
             ],
             "height": 21,
-            "weight": 2200
+            "weight": 2200,
+            "color": "purple"
         },
         {
             "id": 227,
@@ -2601,7 +2827,8 @@
                 "flying"
             ],
             "height": 17,
-            "weight": 505
+            "weight": 505,
+            "color": "gray"
         },
         {
             "id": 228,
@@ -2613,7 +2840,8 @@
                 "fire"
             ],
             "height": 6,
-            "weight": 108
+            "weight": 108,
+            "color": "black"
         },
         {
             "id": 229,
@@ -2625,7 +2853,8 @@
                 "fire"
             ],
             "height": 14,
-            "weight": 350
+            "weight": 350,
+            "color": "black"
         },
         {
             "id": 230,
@@ -2637,7 +2866,8 @@
                 "dragon"
             ],
             "height": 18,
-            "weight": 1520
+            "weight": 1520,
+            "color": "blue"
         },
         {
             "id": 231,
@@ -2648,7 +2878,8 @@
                 "ground"
             ],
             "height": 5,
-            "weight": 335
+            "weight": 335,
+            "color": "blue"
         },
         {
             "id": 232,
@@ -2659,7 +2890,8 @@
                 "ground"
             ],
             "height": 11,
-            "weight": 1200
+            "weight": 1200,
+            "color": "gray"
         },
         {
             "id": 233,
@@ -2670,7 +2902,8 @@
                 "normal"
             ],
             "height": 6,
-            "weight": 325
+            "weight": 325,
+            "color": "red"
         },
         {
             "id": 234,
@@ -2681,7 +2914,8 @@
                 "normal"
             ],
             "height": 14,
-            "weight": 712
+            "weight": 712,
+            "color": "brown"
         },
         {
             "id": 235,
@@ -2692,7 +2926,8 @@
                 "normal"
             ],
             "height": 12,
-            "weight": 580
+            "weight": 580,
+            "color": "white"
         },
         {
             "id": 236,
@@ -2703,7 +2938,8 @@
                 "fighting"
             ],
             "height": 7,
-            "weight": 210
+            "weight": 210,
+            "color": "purple"
         },
         {
             "id": 237,
@@ -2714,7 +2950,8 @@
                 "fighting"
             ],
             "height": 14,
-            "weight": 480
+            "weight": 480,
+            "color": "brown"
         },
         {
             "id": 238,
@@ -2726,7 +2963,8 @@
                 "psychic"
             ],
             "height": 4,
-            "weight": 60
+            "weight": 60,
+            "color": "pink"
         },
         {
             "id": 239,
@@ -2737,7 +2975,8 @@
                 "electric"
             ],
             "height": 6,
-            "weight": 235
+            "weight": 235,
+            "color": "yellow"
         },
         {
             "id": 240,
@@ -2748,7 +2987,8 @@
                 "fire"
             ],
             "height": 7,
-            "weight": 214
+            "weight": 214,
+            "color": "red"
         },
         {
             "id": 241,
@@ -2759,7 +2999,8 @@
                 "normal"
             ],
             "height": 12,
-            "weight": 755
+            "weight": 755,
+            "color": "pink"
         },
         {
             "id": 242,
@@ -2770,7 +3011,8 @@
                 "normal"
             ],
             "height": 15,
-            "weight": 468
+            "weight": 468,
+            "color": "pink"
         },
         {
             "id": 243,
@@ -2781,7 +3023,8 @@
                 "electric"
             ],
             "height": 19,
-            "weight": 1780
+            "weight": 1780,
+            "color": "yellow"
         },
         {
             "id": 244,
@@ -2792,7 +3035,8 @@
                 "fire"
             ],
             "height": 21,
-            "weight": 1980
+            "weight": 1980,
+            "color": "brown"
         },
         {
             "id": 245,
@@ -2803,7 +3047,8 @@
                 "water"
             ],
             "height": 20,
-            "weight": 1870
+            "weight": 1870,
+            "color": "blue"
         },
         {
             "id": 246,
@@ -2815,7 +3060,8 @@
                 "ground"
             ],
             "height": 6,
-            "weight": 720
+            "weight": 720,
+            "color": "green"
         },
         {
             "id": 247,
@@ -2827,7 +3073,8 @@
                 "ground"
             ],
             "height": 12,
-            "weight": 1520
+            "weight": 1520,
+            "color": "gray"
         },
         {
             "id": 248,
@@ -2839,7 +3086,8 @@
                 "dark"
             ],
             "height": 20,
-            "weight": 2020
+            "weight": 2020,
+            "color": "green"
         },
         {
             "id": 249,
@@ -2851,7 +3099,8 @@
                 "flying"
             ],
             "height": 52,
-            "weight": 2160
+            "weight": 2160,
+            "color": "white"
         },
         {
             "id": 250,
@@ -2863,7 +3112,8 @@
                 "flying"
             ],
             "height": 38,
-            "weight": 1990
+            "weight": 1990,
+            "color": "red"
         },
         {
             "id": 251,
@@ -2875,7 +3125,8 @@
                 "grass"
             ],
             "height": 6,
-            "weight": 50
+            "weight": 50,
+            "color": "green"
         },
         {
             "id": 252,
@@ -2886,7 +3137,8 @@
                 "grass"
             ],
             "height": 5,
-            "weight": 50
+            "weight": 50,
+            "color": "green"
         },
         {
             "id": 253,
@@ -2897,7 +3149,8 @@
                 "grass"
             ],
             "height": 9,
-            "weight": 216
+            "weight": 216,
+            "color": "green"
         },
         {
             "id": 254,
@@ -2908,7 +3161,8 @@
                 "grass"
             ],
             "height": 17,
-            "weight": 522
+            "weight": 522,
+            "color": "green"
         },
         {
             "id": 255,
@@ -2919,7 +3173,8 @@
                 "fire"
             ],
             "height": 4,
-            "weight": 25
+            "weight": 25,
+            "color": "red"
         },
         {
             "id": 256,
@@ -2931,7 +3186,8 @@
                 "fighting"
             ],
             "height": 9,
-            "weight": 195
+            "weight": 195,
+            "color": "red"
         },
         {
             "id": 257,
@@ -2943,7 +3199,8 @@
                 "fighting"
             ],
             "height": 19,
-            "weight": 520
+            "weight": 520,
+            "color": "red"
         },
         {
             "id": 258,
@@ -2954,7 +3211,8 @@
                 "water"
             ],
             "height": 4,
-            "weight": 76
+            "weight": 76,
+            "color": "blue"
         },
         {
             "id": 259,
@@ -2966,7 +3224,8 @@
                 "ground"
             ],
             "height": 7,
-            "weight": 280
+            "weight": 280,
+            "color": "blue"
         },
         {
             "id": 260,
@@ -2978,7 +3237,8 @@
                 "ground"
             ],
             "height": 15,
-            "weight": 819
+            "weight": 819,
+            "color": "blue"
         },
         {
             "id": 261,
@@ -2989,7 +3249,8 @@
                 "dark"
             ],
             "height": 5,
-            "weight": 136
+            "weight": 136,
+            "color": "gray"
         },
         {
             "id": 262,
@@ -3000,7 +3261,8 @@
                 "dark"
             ],
             "height": 10,
-            "weight": 370
+            "weight": 370,
+            "color": "gray"
         },
         {
             "id": 263,
@@ -3011,7 +3273,8 @@
                 "normal"
             ],
             "height": 4,
-            "weight": 175
+            "weight": 175,
+            "color": "brown"
         },
         {
             "id": 264,
@@ -3022,7 +3285,8 @@
                 "normal"
             ],
             "height": 5,
-            "weight": 325
+            "weight": 325,
+            "color": "white"
         },
         {
             "id": 265,
@@ -3033,7 +3297,8 @@
                 "bug"
             ],
             "height": 3,
-            "weight": 36
+            "weight": 36,
+            "color": "red"
         },
         {
             "id": 266,
@@ -3044,7 +3309,8 @@
                 "bug"
             ],
             "height": 6,
-            "weight": 100
+            "weight": 100,
+            "color": "white"
         },
         {
             "id": 267,
@@ -3056,7 +3322,8 @@
                 "flying"
             ],
             "height": 10,
-            "weight": 284
+            "weight": 284,
+            "color": "yellow"
         },
         {
             "id": 268,
@@ -3067,7 +3334,8 @@
                 "bug"
             ],
             "height": 7,
-            "weight": 115
+            "weight": 115,
+            "color": "purple"
         },
         {
             "id": 269,
@@ -3079,7 +3347,8 @@
                 "poison"
             ],
             "height": 12,
-            "weight": 316
+            "weight": 316,
+            "color": "green"
         },
         {
             "id": 270,
@@ -3091,7 +3360,8 @@
                 "grass"
             ],
             "height": 5,
-            "weight": 26
+            "weight": 26,
+            "color": "green"
         },
         {
             "id": 271,
@@ -3103,7 +3373,8 @@
                 "grass"
             ],
             "height": 12,
-            "weight": 325
+            "weight": 325,
+            "color": "green"
         },
         {
             "id": 272,
@@ -3115,7 +3386,8 @@
                 "grass"
             ],
             "height": 15,
-            "weight": 550
+            "weight": 550,
+            "color": "green"
         },
         {
             "id": 273,
@@ -3126,7 +3398,8 @@
                 "grass"
             ],
             "height": 5,
-            "weight": 40
+            "weight": 40,
+            "color": "brown"
         },
         {
             "id": 274,
@@ -3138,7 +3411,8 @@
                 "dark"
             ],
             "height": 10,
-            "weight": 280
+            "weight": 280,
+            "color": "brown"
         },
         {
             "id": 275,
@@ -3150,7 +3424,8 @@
                 "dark"
             ],
             "height": 13,
-            "weight": 596
+            "weight": 596,
+            "color": "brown"
         },
         {
             "id": 276,
@@ -3162,7 +3437,8 @@
                 "flying"
             ],
             "height": 3,
-            "weight": 23
+            "weight": 23,
+            "color": "blue"
         },
         {
             "id": 277,
@@ -3174,7 +3450,8 @@
                 "flying"
             ],
             "height": 7,
-            "weight": 198
+            "weight": 198,
+            "color": "blue"
         },
         {
             "id": 278,
@@ -3186,7 +3463,8 @@
                 "flying"
             ],
             "height": 6,
-            "weight": 95
+            "weight": 95,
+            "color": "white"
         },
         {
             "id": 279,
@@ -3198,7 +3476,8 @@
                 "flying"
             ],
             "height": 12,
-            "weight": 280
+            "weight": 280,
+            "color": "yellow"
         },
         {
             "id": 280,
@@ -3210,7 +3489,8 @@
                 "fairy"
             ],
             "height": 4,
-            "weight": 66
+            "weight": 66,
+            "color": "white"
         },
         {
             "id": 281,
@@ -3222,7 +3502,8 @@
                 "fairy"
             ],
             "height": 8,
-            "weight": 202
+            "weight": 202,
+            "color": "white"
         },
         {
             "id": 282,
@@ -3234,7 +3515,8 @@
                 "fairy"
             ],
             "height": 16,
-            "weight": 484
+            "weight": 484,
+            "color": "white"
         },
         {
             "id": 283,
@@ -3246,7 +3528,8 @@
                 "water"
             ],
             "height": 5,
-            "weight": 17
+            "weight": 17,
+            "color": "blue"
         },
         {
             "id": 284,
@@ -3258,7 +3541,8 @@
                 "flying"
             ],
             "height": 8,
-            "weight": 36
+            "weight": 36,
+            "color": "blue"
         },
         {
             "id": 285,
@@ -3269,7 +3553,8 @@
                 "grass"
             ],
             "height": 4,
-            "weight": 45
+            "weight": 45,
+            "color": "brown"
         },
         {
             "id": 286,
@@ -3281,7 +3566,8 @@
                 "fighting"
             ],
             "height": 12,
-            "weight": 392
+            "weight": 392,
+            "color": "green"
         },
         {
             "id": 287,
@@ -3292,7 +3578,8 @@
                 "normal"
             ],
             "height": 8,
-            "weight": 240
+            "weight": 240,
+            "color": "brown"
         },
         {
             "id": 288,
@@ -3303,7 +3590,8 @@
                 "normal"
             ],
             "height": 14,
-            "weight": 465
+            "weight": 465,
+            "color": "white"
         },
         {
             "id": 289,
@@ -3314,7 +3602,8 @@
                 "normal"
             ],
             "height": 20,
-            "weight": 1305
+            "weight": 1305,
+            "color": "brown"
         },
         {
             "id": 290,
@@ -3326,7 +3615,8 @@
                 "ground"
             ],
             "height": 5,
-            "weight": 55
+            "weight": 55,
+            "color": "gray"
         },
         {
             "id": 291,
@@ -3338,7 +3628,8 @@
                 "flying"
             ],
             "height": 8,
-            "weight": 120
+            "weight": 120,
+            "color": "yellow"
         },
         {
             "id": 292,
@@ -3350,7 +3641,8 @@
                 "ghost"
             ],
             "height": 8,
-            "weight": 12
+            "weight": 12,
+            "color": "brown"
         },
         {
             "id": 293,
@@ -3361,7 +3653,8 @@
                 "normal"
             ],
             "height": 6,
-            "weight": 163
+            "weight": 163,
+            "color": "pink"
         },
         {
             "id": 294,
@@ -3372,7 +3665,8 @@
                 "normal"
             ],
             "height": 10,
-            "weight": 405
+            "weight": 405,
+            "color": "blue"
         },
         {
             "id": 295,
@@ -3383,7 +3677,8 @@
                 "normal"
             ],
             "height": 15,
-            "weight": 840
+            "weight": 840,
+            "color": "blue"
         },
         {
             "id": 296,
@@ -3394,7 +3689,8 @@
                 "fighting"
             ],
             "height": 10,
-            "weight": 864
+            "weight": 864,
+            "color": "yellow"
         },
         {
             "id": 297,
@@ -3405,7 +3701,8 @@
                 "fighting"
             ],
             "height": 23,
-            "weight": 2538
+            "weight": 2538,
+            "color": "brown"
         },
         {
             "id": 298,
@@ -3417,7 +3714,8 @@
                 "fairy"
             ],
             "height": 2,
-            "weight": 20
+            "weight": 20,
+            "color": "blue"
         },
         {
             "id": 299,
@@ -3428,7 +3726,8 @@
                 "rock"
             ],
             "height": 10,
-            "weight": 970
+            "weight": 970,
+            "color": "gray"
         },
         {
             "id": 300,
@@ -3439,7 +3738,8 @@
                 "normal"
             ],
             "height": 6,
-            "weight": 110
+            "weight": 110,
+            "color": "pink"
         },
         {
             "id": 301,
@@ -3450,7 +3750,8 @@
                 "normal"
             ],
             "height": 11,
-            "weight": 326
+            "weight": 326,
+            "color": "purple"
         },
         {
             "id": 302,
@@ -3462,7 +3763,8 @@
                 "ghost"
             ],
             "height": 5,
-            "weight": 110
+            "weight": 110,
+            "color": "purple"
         },
         {
             "id": 303,
@@ -3474,7 +3776,8 @@
                 "fairy"
             ],
             "height": 6,
-            "weight": 115
+            "weight": 115,
+            "color": "black"
         },
         {
             "id": 304,
@@ -3486,7 +3789,8 @@
                 "rock"
             ],
             "height": 4,
-            "weight": 600
+            "weight": 600,
+            "color": "gray"
         },
         {
             "id": 305,
@@ -3498,7 +3802,8 @@
                 "rock"
             ],
             "height": 9,
-            "weight": 1200
+            "weight": 1200,
+            "color": "gray"
         },
         {
             "id": 306,
@@ -3510,7 +3815,8 @@
                 "rock"
             ],
             "height": 21,
-            "weight": 3600
+            "weight": 3600,
+            "color": "gray"
         },
         {
             "id": 307,
@@ -3522,7 +3828,8 @@
                 "psychic"
             ],
             "height": 6,
-            "weight": 112
+            "weight": 112,
+            "color": "blue"
         },
         {
             "id": 308,
@@ -3534,7 +3841,8 @@
                 "psychic"
             ],
             "height": 13,
-            "weight": 315
+            "weight": 315,
+            "color": "red"
         },
         {
             "id": 309,
@@ -3545,7 +3853,8 @@
                 "electric"
             ],
             "height": 6,
-            "weight": 152
+            "weight": 152,
+            "color": "green"
         },
         {
             "id": 310,
@@ -3556,7 +3865,8 @@
                 "electric"
             ],
             "height": 15,
-            "weight": 402
+            "weight": 402,
+            "color": "yellow"
         },
         {
             "id": 311,
@@ -3567,7 +3877,8 @@
                 "electric"
             ],
             "height": 4,
-            "weight": 42
+            "weight": 42,
+            "color": "yellow"
         },
         {
             "id": 312,
@@ -3578,7 +3889,8 @@
                 "electric"
             ],
             "height": 4,
-            "weight": 42
+            "weight": 42,
+            "color": "yellow"
         },
         {
             "id": 313,
@@ -3589,7 +3901,8 @@
                 "bug"
             ],
             "height": 7,
-            "weight": 177
+            "weight": 177,
+            "color": "gray"
         },
         {
             "id": 314,
@@ -3600,7 +3913,8 @@
                 "bug"
             ],
             "height": 6,
-            "weight": 177
+            "weight": 177,
+            "color": "purple"
         },
         {
             "id": 315,
@@ -3612,7 +3926,8 @@
                 "poison"
             ],
             "height": 3,
-            "weight": 20
+            "weight": 20,
+            "color": "green"
         },
         {
             "id": 316,
@@ -3623,7 +3938,8 @@
                 "poison"
             ],
             "height": 4,
-            "weight": 103
+            "weight": 103,
+            "color": "green"
         },
         {
             "id": 317,
@@ -3634,7 +3950,8 @@
                 "poison"
             ],
             "height": 17,
-            "weight": 800
+            "weight": 800,
+            "color": "purple"
         },
         {
             "id": 318,
@@ -3646,7 +3963,8 @@
                 "dark"
             ],
             "height": 8,
-            "weight": 208
+            "weight": 208,
+            "color": "red"
         },
         {
             "id": 319,
@@ -3658,7 +3976,8 @@
                 "dark"
             ],
             "height": 18,
-            "weight": 888
+            "weight": 888,
+            "color": "blue"
         },
         {
             "id": 320,
@@ -3669,7 +3988,8 @@
                 "water"
             ],
             "height": 20,
-            "weight": 1300
+            "weight": 1300,
+            "color": "blue"
         },
         {
             "id": 321,
@@ -3680,7 +4000,8 @@
                 "water"
             ],
             "height": 145,
-            "weight": 3980
+            "weight": 3980,
+            "color": "blue"
         },
         {
             "id": 322,
@@ -3692,7 +4013,8 @@
                 "ground"
             ],
             "height": 7,
-            "weight": 240
+            "weight": 240,
+            "color": "yellow"
         },
         {
             "id": 323,
@@ -3704,7 +4026,8 @@
                 "ground"
             ],
             "height": 19,
-            "weight": 2200
+            "weight": 2200,
+            "color": "red"
         },
         {
             "id": 324,
@@ -3715,7 +4038,8 @@
                 "fire"
             ],
             "height": 5,
-            "weight": 804
+            "weight": 804,
+            "color": "brown"
         },
         {
             "id": 325,
@@ -3726,7 +4050,8 @@
                 "psychic"
             ],
             "height": 7,
-            "weight": 306
+            "weight": 306,
+            "color": "black"
         },
         {
             "id": 326,
@@ -3737,7 +4062,8 @@
                 "psychic"
             ],
             "height": 9,
-            "weight": 715
+            "weight": 715,
+            "color": "purple"
         },
         {
             "id": 327,
@@ -3748,7 +4074,8 @@
                 "normal"
             ],
             "height": 11,
-            "weight": 50
+            "weight": 50,
+            "color": "brown"
         },
         {
             "id": 328,
@@ -3759,7 +4086,8 @@
                 "ground"
             ],
             "height": 7,
-            "weight": 150
+            "weight": 150,
+            "color": "brown"
         },
         {
             "id": 329,
@@ -3771,7 +4099,8 @@
                 "dragon"
             ],
             "height": 11,
-            "weight": 153
+            "weight": 153,
+            "color": "green"
         },
         {
             "id": 330,
@@ -3783,7 +4112,8 @@
                 "dragon"
             ],
             "height": 20,
-            "weight": 820
+            "weight": 820,
+            "color": "green"
         },
         {
             "id": 331,
@@ -3794,7 +4124,8 @@
                 "grass"
             ],
             "height": 4,
-            "weight": 513
+            "weight": 513,
+            "color": "green"
         },
         {
             "id": 332,
@@ -3806,7 +4137,8 @@
                 "dark"
             ],
             "height": 13,
-            "weight": 774
+            "weight": 774,
+            "color": "green"
         },
         {
             "id": 333,
@@ -3818,7 +4150,8 @@
                 "flying"
             ],
             "height": 4,
-            "weight": 12
+            "weight": 12,
+            "color": "blue"
         },
         {
             "id": 334,
@@ -3830,7 +4163,8 @@
                 "flying"
             ],
             "height": 11,
-            "weight": 206
+            "weight": 206,
+            "color": "blue"
         },
         {
             "id": 335,
@@ -3841,7 +4175,8 @@
                 "normal"
             ],
             "height": 13,
-            "weight": 403
+            "weight": 403,
+            "color": "white"
         },
         {
             "id": 336,
@@ -3852,7 +4187,8 @@
                 "poison"
             ],
             "height": 27,
-            "weight": 525
+            "weight": 525,
+            "color": "black"
         },
         {
             "id": 337,
@@ -3864,7 +4200,8 @@
                 "psychic"
             ],
             "height": 10,
-            "weight": 1680
+            "weight": 1680,
+            "color": "yellow"
         },
         {
             "id": 338,
@@ -3876,7 +4213,8 @@
                 "psychic"
             ],
             "height": 12,
-            "weight": 1540
+            "weight": 1540,
+            "color": "red"
         },
         {
             "id": 339,
@@ -3888,7 +4226,8 @@
                 "ground"
             ],
             "height": 4,
-            "weight": 19
+            "weight": 19,
+            "color": "gray"
         },
         {
             "id": 340,
@@ -3900,7 +4239,8 @@
                 "ground"
             ],
             "height": 9,
-            "weight": 236
+            "weight": 236,
+            "color": "blue"
         },
         {
             "id": 341,
@@ -3911,7 +4251,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 115
+            "weight": 115,
+            "color": "red"
         },
         {
             "id": 342,
@@ -3923,7 +4264,8 @@
                 "dark"
             ],
             "height": 11,
-            "weight": 328
+            "weight": 328,
+            "color": "red"
         },
         {
             "id": 343,
@@ -3935,7 +4277,8 @@
                 "psychic"
             ],
             "height": 5,
-            "weight": 215
+            "weight": 215,
+            "color": "brown"
         },
         {
             "id": 344,
@@ -3947,7 +4290,8 @@
                 "psychic"
             ],
             "height": 15,
-            "weight": 1080
+            "weight": 1080,
+            "color": "black"
         },
         {
             "id": 345,
@@ -3959,7 +4303,8 @@
                 "grass"
             ],
             "height": 10,
-            "weight": 238
+            "weight": 238,
+            "color": "purple"
         },
         {
             "id": 346,
@@ -3971,7 +4316,8 @@
                 "grass"
             ],
             "height": 15,
-            "weight": 604
+            "weight": 604,
+            "color": "green"
         },
         {
             "id": 347,
@@ -3983,7 +4329,8 @@
                 "bug"
             ],
             "height": 7,
-            "weight": 125
+            "weight": 125,
+            "color": "gray"
         },
         {
             "id": 348,
@@ -3995,7 +4342,8 @@
                 "bug"
             ],
             "height": 15,
-            "weight": 682
+            "weight": 682,
+            "color": "gray"
         },
         {
             "id": 349,
@@ -4006,7 +4354,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 74
+            "weight": 74,
+            "color": "brown"
         },
         {
             "id": 350,
@@ -4017,7 +4366,8 @@
                 "water"
             ],
             "height": 62,
-            "weight": 1620
+            "weight": 1620,
+            "color": "pink"
         },
         {
             "id": 351,
@@ -4028,7 +4378,8 @@
                 "normal"
             ],
             "height": 3,
-            "weight": 8
+            "weight": 8,
+            "color": "gray"
         },
         {
             "id": 352,
@@ -4039,7 +4390,8 @@
                 "normal"
             ],
             "height": 10,
-            "weight": 220
+            "weight": 220,
+            "color": "green"
         },
         {
             "id": 353,
@@ -4050,7 +4402,8 @@
                 "ghost"
             ],
             "height": 6,
-            "weight": 23
+            "weight": 23,
+            "color": "black"
         },
         {
             "id": 354,
@@ -4061,7 +4414,8 @@
                 "ghost"
             ],
             "height": 11,
-            "weight": 125
+            "weight": 125,
+            "color": "black"
         },
         {
             "id": 355,
@@ -4072,7 +4426,8 @@
                 "ghost"
             ],
             "height": 8,
-            "weight": 150
+            "weight": 150,
+            "color": "black"
         },
         {
             "id": 356,
@@ -4083,7 +4438,8 @@
                 "ghost"
             ],
             "height": 16,
-            "weight": 306
+            "weight": 306,
+            "color": "black"
         },
         {
             "id": 357,
@@ -4095,7 +4451,8 @@
                 "flying"
             ],
             "height": 20,
-            "weight": 1000
+            "weight": 1000,
+            "color": "green"
         },
         {
             "id": 358,
@@ -4106,7 +4463,8 @@
                 "psychic"
             ],
             "height": 6,
-            "weight": 10
+            "weight": 10,
+            "color": "blue"
         },
         {
             "id": 359,
@@ -4117,7 +4475,8 @@
                 "dark"
             ],
             "height": 12,
-            "weight": 470
+            "weight": 470,
+            "color": "white"
         },
         {
             "id": 360,
@@ -4128,7 +4487,8 @@
                 "psychic"
             ],
             "height": 6,
-            "weight": 140
+            "weight": 140,
+            "color": "blue"
         },
         {
             "id": 361,
@@ -4139,7 +4499,8 @@
                 "ice"
             ],
             "height": 7,
-            "weight": 168
+            "weight": 168,
+            "color": "gray"
         },
         {
             "id": 362,
@@ -4150,7 +4511,8 @@
                 "ice"
             ],
             "height": 15,
-            "weight": 2565
+            "weight": 2565,
+            "color": "gray"
         },
         {
             "id": 363,
@@ -4162,7 +4524,8 @@
                 "water"
             ],
             "height": 8,
-            "weight": 395
+            "weight": 395,
+            "color": "blue"
         },
         {
             "id": 364,
@@ -4174,7 +4537,8 @@
                 "water"
             ],
             "height": 11,
-            "weight": 876
+            "weight": 876,
+            "color": "blue"
         },
         {
             "id": 365,
@@ -4186,7 +4550,8 @@
                 "water"
             ],
             "height": 14,
-            "weight": 1506
+            "weight": 1506,
+            "color": "blue"
         },
         {
             "id": 366,
@@ -4197,7 +4562,8 @@
                 "water"
             ],
             "height": 4,
-            "weight": 525
+            "weight": 525,
+            "color": "blue"
         },
         {
             "id": 367,
@@ -4208,7 +4574,8 @@
                 "water"
             ],
             "height": 17,
-            "weight": 270
+            "weight": 270,
+            "color": "blue"
         },
         {
             "id": 368,
@@ -4219,7 +4586,8 @@
                 "water"
             ],
             "height": 18,
-            "weight": 226
+            "weight": 226,
+            "color": "pink"
         },
         {
             "id": 369,
@@ -4231,7 +4599,8 @@
                 "rock"
             ],
             "height": 10,
-            "weight": 234
+            "weight": 234,
+            "color": "gray"
         },
         {
             "id": 370,
@@ -4242,7 +4611,8 @@
                 "water"
             ],
             "height": 6,
-            "weight": 87
+            "weight": 87,
+            "color": "pink"
         },
         {
             "id": 371,
@@ -4253,7 +4623,8 @@
                 "dragon"
             ],
             "height": 6,
-            "weight": 421
+            "weight": 421,
+            "color": "blue"
         },
         {
             "id": 372,
@@ -4264,7 +4635,8 @@
                 "dragon"
             ],
             "height": 11,
-            "weight": 1105
+            "weight": 1105,
+            "color": "white"
         },
         {
             "id": 373,
@@ -4276,7 +4648,8 @@
                 "flying"
             ],
             "height": 15,
-            "weight": 1026
+            "weight": 1026,
+            "color": "blue"
         },
         {
             "id": 374,
@@ -4288,7 +4661,8 @@
                 "psychic"
             ],
             "height": 6,
-            "weight": 952
+            "weight": 952,
+            "color": "blue"
         },
         {
             "id": 375,
@@ -4300,7 +4674,8 @@
                 "psychic"
             ],
             "height": 12,
-            "weight": 2025
+            "weight": 2025,
+            "color": "blue"
         },
         {
             "id": 376,
@@ -4312,7 +4687,8 @@
                 "psychic"
             ],
             "height": 16,
-            "weight": 5500
+            "weight": 5500,
+            "color": "blue"
         },
         {
             "id": 377,
@@ -4323,7 +4699,8 @@
                 "rock"
             ],
             "height": 17,
-            "weight": 2300
+            "weight": 2300,
+            "color": "brown"
         },
         {
             "id": 378,
@@ -4334,7 +4711,8 @@
                 "ice"
             ],
             "height": 18,
-            "weight": 1750
+            "weight": 1750,
+            "color": "blue"
         },
         {
             "id": 379,
@@ -4345,7 +4723,8 @@
                 "steel"
             ],
             "height": 19,
-            "weight": 2050
+            "weight": 2050,
+            "color": "gray"
         },
         {
             "id": 380,
@@ -4357,7 +4736,8 @@
                 "psychic"
             ],
             "height": 14,
-            "weight": 400
+            "weight": 400,
+            "color": "red"
         },
         {
             "id": 381,
@@ -4369,7 +4749,8 @@
                 "psychic"
             ],
             "height": 20,
-            "weight": 600
+            "weight": 600,
+            "color": "blue"
         },
         {
             "id": 382,
@@ -4380,7 +4761,8 @@
                 "water"
             ],
             "height": 45,
-            "weight": 3520
+            "weight": 3520,
+            "color": "blue"
         },
         {
             "id": 383,
@@ -4391,7 +4773,8 @@
                 "ground"
             ],
             "height": 35,
-            "weight": 9500
+            "weight": 9500,
+            "color": "red"
         },
         {
             "id": 384,
@@ -4403,7 +4786,8 @@
                 "flying"
             ],
             "height": 70,
-            "weight": 2065
+            "weight": 2065,
+            "color": "green"
         },
         {
             "id": 385,
@@ -4415,7 +4799,8 @@
                 "psychic"
             ],
             "height": 3,
-            "weight": 11
+            "weight": 11,
+            "color": "yellow"
         },
         {
             "id": 386,
@@ -4426,9 +4811,10 @@
                 "psychic"
             ],
             "height": 17,
-            "weight": 608
+            "weight": 608,
+            "color": "red"
         }
     ],
-    "favorite": [],
+    "favorites": [],
     "teams": []
 }

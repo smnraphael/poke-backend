@@ -6,22 +6,33 @@ def get_pokemon_info(limit=386):
     all_pokemon_info = []
     url = f"https://pokeapi.co/api/v2/pokemon?limit={limit}"
     response = requests.get(url)
-    
+    urlColor = f"https://pokeapi.co/api/v2/pokemon-species?limit={limit}"
+
     if response.status_code == 200:
         data = response.json()
-        for pokemon in data['results']:
-            pokemon_data = requests.get(pokemon['url']).json()
-            pokemon_info = {
-                "id": pokemon_data['id'],
-                "name": pokemon_data['species']['name'],
-                "image": pokemon_data['sprites']['other']['official-artwork']['front_default'],
-                "generation": get_generation(pokemon_data['id']),
-                "type": [t['type']['name'] for t in pokemon_data['types']],
-                "height": pokemon_data['height'],
-                "weight": pokemon_data['weight']
+        color_response = requests.get(urlColor)
+        if color_response.status_code == 200:
+            color_data = color_response.json()
+
+            for pokemon, color_info in zip(data['results'], color_data['results']):
+                pokemon_data = requests.get(pokemon['url']).json()
+                pokemon_color_data = requests.get(color_info['url']).json()
+                pokemon_info = {
+                    "id": pokemon_data['id'],
+                    "name": pokemon_data['species']['name'],
+                    "image": pokemon_data['sprites']['other']['official-artwork']['front_default'],
+                    "generation": get_generation(pokemon_data['id']),
+                    "type": [t['type']['name'] for t in pokemon_data['types']],
+                    "height": pokemon_data['height'],
+                    "weight": pokemon_data['weight'],
+                    "color": pokemon_color_data['color']['name']
                 }
-            all_pokemon_info.append(pokemon_info)
-        return {"pokemons": all_pokemon_info, "favorite": [], "teams": []}
+                all_pokemon_info.append(pokemon_info)
+            
+            return {"pokemons": all_pokemon_info, "favorites": [], "teams": []}
+        else:
+            print("Failed to fetch color data from", urlColor)
+            return None
     else:
         print("Failed to fetch data from", url)
         return None
