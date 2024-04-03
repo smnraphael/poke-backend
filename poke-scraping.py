@@ -29,7 +29,7 @@ def get_pokemon_info(limit=386):
                 }
                 all_pokemon_info.append(pokemon_info)
             
-            return {"pokemons": all_pokemon_info, "favorites": [], "teams": []}
+            return {"pokemons": all_pokemon_info, "favorite": [], "teams": []}
         else:
             print("Failed to fetch color data from", urlColor)
             return None
